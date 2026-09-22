@@ -190,10 +190,10 @@ Edit `src/components/Navbar.jsx` → the live badge text
 | Field | Value |
 |-------|-------|
 | Name | Chill Point |
-| Phone | 8866442439 |
+| Phone | 8866442430 |
 | Address | GF Shop No. 18, Shivalaya Bliss, Taksh Aura Rd, N.H.8, Vadodara, Gujarat 390019 |
 | Hours | 4:30 PM – 9:30 PM (Daily) |
-| WhatsApp | https://wa.me/918866442439 |
+| WhatsApp | https://wa.me/918866442430 |
 
 ---
 

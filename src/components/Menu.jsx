@@ -216,7 +216,7 @@ export default function Menu() {
                 <div style={{ fontFamily: 'Bebas Neue', fontSize: 48, color: 'white', letterSpacing: 2, lineHeight: 1 }}>{randomItem.name}</div>
                 <div style={{ fontSize: 28, fontWeight: 800, color: '#F5C800', margin: '16px 0 32px' }}>₹{randomItem.price}</div>
                 
-                <a href={`https://wa.me/918866442439?text=Hi%20Chill%20Point!%20I%20want%20to%20order%20one%20${encodeURIComponent(randomItem.name)}.`} target="_blank" rel="noreferrer" className="btn-yellow" style={{ width: '100%', justifyContent: 'center', padding: '16px', fontSize: 14 }}>
+                <a href={`https://wa.me/918866442430?text=Hi%20Chill%20Point!%20I%20want%20to%20order%20one%20${encodeURIComponent(randomItem.name)}.`} target="_blank" rel="noreferrer" className="btn-yellow" style={{ width: '100%', justifyContent: 'center', padding: '16px', fontSize: 14 }}>
                   💬 Order This Now
                 </a>
               </div>
@@ -237,8 +237,8 @@ export default function Menu() {
             <button onClick={pickRandom} className="btn-outline-white" style={{ justifyContent: 'center' }}>
               🎲 Confused what to order?
             </button>
-            <a href="tel:8866442439" className="btn-outline-white" style={{ justifyContent: 'center' }}>📞 Call Now</a>
-            <a href="https://wa.me/918866442439?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ justifyContent: 'center' }}>💬 WhatsApp</a>
+            <a href="tel:8866442430" className="btn-outline-white" style={{ justifyContent: 'center' }}>📞 Call Now</a>
+            <a href="https://wa.me/918866442430?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ justifyContent: 'center' }}>💬 WhatsApp</a>
           </div>
         </div>
 

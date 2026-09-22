@@ -45,7 +45,7 @@ export default function About() {
             <button onClick={() => document.querySelector('#menu')?.scrollIntoView({ behavior: 'smooth' })} className="btn-dark">
               See Our Menu →
             </button>
-            <a href="tel:8866442439" className="btn-yellow">Call Us</a>
+            <a href="tel:8866442430" className="btn-yellow">Call Us</a>
           </div>
         </div>
 

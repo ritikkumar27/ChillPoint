@@ -67,10 +67,10 @@ export default function Contact() {
               <div style={{ width: 48, height: 48, background: '#4ade80', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 20, flexShrink: 0 }}>📞</div>
               <div>
                 <div style={{ fontFamily: 'Bebas Neue', fontSize: 18, color: '#F5C800', letterSpacing: 2, marginBottom: 8 }}>CALL / WHATSAPP</div>
-                <a href="tel:8866442439" style={{ fontSize: 22, fontWeight: 700, color: 'white', textDecoration: 'none', display: 'block', marginBottom: 12 }}>+91 88664 42439</a>
+                <a href="tel:8866442430" style={{ fontSize: 22, fontWeight: 700, color: 'white', textDecoration: 'none', display: 'block', marginBottom: 12 }}>+91 88664 42430</a>
                 <div style={{ display: 'flex', gap: 10 }}>
-                  <a href="tel:8866442439" className="btn-outline-white" style={{ padding: '8px 18px', fontSize: 11 }}>Call</a>
-                  <a href="https://wa.me/918866442439?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer"
+                  <a href="tel:8866442430" className="btn-outline-white" style={{ padding: '8px 18px', fontSize: 11 }}>Call</a>
+                  <a href="https://wa.me/918866442430?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer"
                     style={{ padding: '8px 18px', fontSize: 11, fontWeight: 700, textTransform: 'uppercase', letterSpacing: 1, background: '#25D366', color: 'white', display: 'inline-flex', alignItems: 'center', gap: 6, textDecoration: 'none' }}>
                     WhatsApp
                   </a>

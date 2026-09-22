@@ -31,7 +31,7 @@ export default function Footer() {
             <p style={{ fontSize: 14, color: 'rgba(255,255,255,0.4)', lineHeight: 1.8, maxWidth: 280, marginBottom: 24 }}>
               Vadodara's favourite vegetarian street food destination. Fresh every evening, priced for everyone.
             </p>
-            <a href="https://wa.me/918866442439?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ fontSize: 12, padding: '12px 24px' }}>
+            <a href="https://wa.me/918866442430?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ fontSize: 12, padding: '12px 24px' }}>
               💬 Order on WhatsApp
             </a>
           </div>
@@ -56,7 +56,7 @@ export default function Footer() {
             <div style={{ fontFamily: 'Bebas Neue', fontSize: 16, color: '#F5C800', letterSpacing: 3, marginBottom: 24 }}>CONTACT</div>
             <div style={{ display: 'grid', gap: 16, fontSize: 14, color: 'rgba(255,255,255,0.5)', lineHeight: 1.7 }}>
               <div>📍 Chill Point, GF Shop No. 18, Shivalaya Bliss, Taksh Aura Rd, N.H.8, Vadodara, Gujarat 390019</div>
-              <div><a href="tel:8866442439" style={{ color: 'rgba(255,255,255,0.5)', textDecoration: 'none' }}>📞 +91 88664 42439</a></div>
+              <div><a href="tel:8866442430" style={{ color: 'rgba(255,255,255,0.5)', textDecoration: 'none' }}>📞 +91 88664 42430</a></div>
               <div>🕐 4:30 PM – 9:30 PM (Daily)</div>
             </div>
           </div>

@@ -113,7 +113,7 @@ export default function Hero() {
             <button onClick={() => scrollTo('#menu')} className="btn-yellow">
               View Menu →
             </button>
-            <a href="https://wa.me/918866442439?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-outline-white">
+            <a href="https://wa.me/918866442430?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-outline-white">
               💬 WhatsApp Order
             </a>
           </div>

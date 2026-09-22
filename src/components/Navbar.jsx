@@ -72,10 +72,10 @@ export default function Navbar() {
 
         {/* CTA */}
         <div className="hidden md:flex" style={{ gap: 12, alignItems: 'center' }}>
-          <a href="tel:8866442439" style={{ fontSize: 12, fontWeight: 700, color: 'rgba(255,255,255,0.6)', letterSpacing: 1, textDecoration: 'none' }}>
-            📞 88664 42439
+          <a href="tel:8866442430" style={{ fontSize: 12, fontWeight: 700, color: 'rgba(255,255,255,0.6)', letterSpacing: 1, textDecoration: 'none' }}>
+            📞 88664 42430
           </a>
-          <a href="https://wa.me/918866442439?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ padding: '10px 24px', fontSize: 11 }}>
+          <a href="https://wa.me/918866442430?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ padding: '10px 24px', fontSize: 11 }}>
             Order Now
           </a>
         </div>
@@ -96,8 +96,8 @@ export default function Navbar() {
             </a>
           ))}
           <div style={{ display: 'flex', gap: 12, marginTop: 20 }}>
-            <a href="tel:8866442439" className="btn-outline-white" style={{ flex: 1, justifyContent: 'center', padding: '12px 16px', fontSize: 11 }}>Call Us</a>
-            <a href="https://wa.me/918866442439?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ flex: 1, justifyContent: 'center', padding: '12px 16px', fontSize: 11 }}>Order</a>
+            <a href="tel:8866442430" className="btn-outline-white" style={{ flex: 1, justifyContent: 'center', padding: '12px 16px', fontSize: 11 }}>Call Us</a>
+            <a href="https://wa.me/918866442430?text=Hi%20Chill%20Point!" target="_blank" rel="noreferrer" className="btn-yellow" style={{ flex: 1, justifyContent: 'center', padding: '12px 16px', fontSize: 11 }}>Order</a>
           </div>
         </div>
       )}
